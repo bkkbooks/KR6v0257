@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0257/i/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 雷暉嫗造釋迦像記
+  edition:
+    short: i
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0081.xml
+    old_id: I01n0081
+hash: sha256:747a8bff229b3673d8e3e3239bb90bd9ef81e6ba6f2a412f350b5a198cd149d6

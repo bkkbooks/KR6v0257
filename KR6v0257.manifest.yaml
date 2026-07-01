@@ -1,0 +1,62 @@
+canonical_identifier: bkk:krp/KR6v0257/v1
+canonical_location: https://kanripo.org/bkk/KR6v0257/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 雷暉嫗造釋迦像記
+  identifiers:
+    alt_id:
+    - I01n0081
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0081.xml
+    old_id: I01n0081
+  edition:
+    short: bkk
+editions:
+- short: 佛拓
+  label: 佛拓
+  source_xml_id: wit.orig
+- short: I
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0257_000.yaml, hash: 'sha256:747a8bff229b3673d8e3e3239bb90bd9ef81e6ba6f2a412f350b5a198cd149d6'}
+  - {seq: 1, filename: KR6v0257_001.yaml, hash: 'sha256:e65a44a0af112cfcfa0f78a3561c9967d2b7fdba45410b023b08ad6653c80f8e'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0257_001.markers.yaml, hash: 'sha256:1189b3fd7f8f72b90b5c446005686a0949dc860f1cd2a1879d8e25be66da48ba'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0257_I_001-juan-start
+    span:
+    - body
+    - 0
+    - 348
+  label: 雷暉嫗造釋迦像記
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0257_I_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 之一　碑陽
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0257_I_001-mulu-2
+    span:
+    - body
+    - 187
+    - 187
+  label: 之二　碑側
+  type: mulu
+  level: 1
+hash: sha256:caec84d9d1fff00abebb58186d1d138a7a6b2b82b9a67202b1f540e5119bc8b6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

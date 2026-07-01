@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR6v0257/i/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之一碑陽大周保定五年歲次乙酉五月壬午朔五日丙戌雷暉嫗者三門護軍王之孫功曹張郎之女也父祖相承關中豪族歷代酋望軀雖受女身志性真明殊懷丈夫之操五德六藏體會而能標女儀婦道動成於物軌年在初笄從禮而門字本是州河東郡蒲坂縣人也忩朗令哲譏會無方覽練眾經內外斯朗於神龜年中跨滻河觀矚跛關隴優遊西氏慕德因為親繾綣一生事同魚永熙之季海內遶魏英豪岳方欲掃定宇宙廣募賢良猛騎時忠勇奮發應命即除龍驤將軍之二碑側有壹子字令業長成有父風文經武略庶年中寢疾而終凡在親知愛其父子仁義莫不留戀嫗愍之息塗三塬三塬者天地初開伏羲之舊名往古來今聖賢之所都邑皆無凶咎遂父子同埒精靈莫二其墳上高十尺下至黃泉棺槨相重儭幣自周蒔柏卅餘并諸有春冬變又仰憑三寶有濟度之能敬造釋加石像前後兩堪并諸聖之像等同斯福法界含生登正道物之堅固者莫過金石署碑於墓永存
+  hash: sha256:2b9a9ee475facf6e7733816b3df0577e2df7af9e57d4b46234cc6b6c2160e66d
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: 雷暉嫗造釋迦像記, id: KR6v0257_I_001-juan-start, juan_n: '001', jhead: 雷暉嫗造釋迦像記}
+  - {type: 其他, offset: 0, content: 之一　碑陽, id: KR6v0257_I_001-mulu-1, level: '1'}
+  - {type: 其他, offset: 187, content: 之二　碑側, id: KR6v0257_I_001-mulu-2, level: '1'}
+metadata:
+  title: 雷暉嫗造釋迦像記
+  edition:
+    short: i
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0081.xml
+    old_id: I01n0081
+hash: sha256:927bda0b3b3c9b4a5abb5e05d66151f453dde7d241760cd5ce129da0b58703ed
