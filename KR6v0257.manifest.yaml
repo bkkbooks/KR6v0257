@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0257/v1
 canonical_location: https://kanripo.org/bkk/KR6v0257/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 雷暉嫗造釋迦像記
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0257_000.yaml, hash: 'sha256:747a8bff229b3673d8e3e3239bb90bd9ef81e6ba6f2a412f350b5a198cd149d6'}
-  - {seq: 1, filename: KR6v0257_001.yaml, hash: 'sha256:927bda0b3b3c9b4a5abb5e05d66151f453dde7d241760cd5ce129da0b58703ed'}
+  - {seq: 1, filename: KR6v0257_001.yaml, hash: 'sha256:e65a44a0af112cfcfa0f78a3561c9967d2b7fdba45410b023b08ad6653c80f8e'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6v0257_000.markers.yaml, hash: 'sha256:fc2d225ac42caf76036388f9e8bf76d1e816619c785d8f9d9488cc62de3c6a79'}
-  - {seq: 1, role: markers, filename: assets/KR6v0257_001.markers.yaml, hash: 'sha256:03e31be9de72996da78ab8d11d6edc36d50d42c2e2bc580764069ec59140db46'}
+  - {seq: 1, role: markers, filename: assets/KR6v0257_001.markers.yaml, hash: 'sha256:09947cb99fe249bfa70445e96f9c16e320a80f0619cdc658b1d692ed1a906f81'}
 table_of_contents:
 - ref:
     seq: 1
@@ -57,4 +57,7 @@ table_of_contents:
   label: 之二　碑側
   type: mulu
   level: 1
-hash: sha256:b47e943a516be8bfbab9c5eb56b41a7c2a112c7fddca91aada5942f55f6f11a3
+hash: sha256:38a861f633abac4d52a13ea8a979e486f7166d8203c79adfc4fc1ba6cce5d4b8
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
